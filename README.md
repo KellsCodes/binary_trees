@@ -8,7 +8,7 @@ Data structure
 
 ## Resources
 
-- Read or watch:
+**Read or watch:**
 * Binary tree (note the first line: Not to be confused with B-tree.): https://en.wikipedia.org/wiki/Binary_tree
 
 * Data Structure and Algorithms - Tree: https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm
